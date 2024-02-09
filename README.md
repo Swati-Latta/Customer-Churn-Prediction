@@ -43,8 +43,8 @@ Generate insights that can be easily communicated to stakeholders and decision-m
 
 | Files| Description |
 | -------------   | ------------- |
-| **UberDataset.csv**  | This CSV file contains the data set of Uber.  |
-| **Uber Data Analysis.ipynb** | This  ipynb file contains the EDA code. |
+| **customer_churn_large_dataset.csv**  | This CSV file contains the data set of Customer Churn.  |
+| **Customer Churn Prediction.ipynb** | This  ipynb file contains the EDA code. |
 
 
 # <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Key Finding    
